@@ -11,5 +11,6 @@ WebService::Loctouch - Perl interface to the Loctouch API webservice
 
 # DESCRIPTION
 WebService::Loctouch is a Perl interface to the Loctouch web service API.
+
 For more information on Loctouch, visit the Loctouch website. http://tou.ch/
 
