@@ -1,0 +1,15 @@
+# NAME
+WebService::Loctouch - Perl interface to the Loctouch API webservice
+
+# SYNOPSIS
+
+    use WebService::Loctouch;
+
+    my $loc = WebService::Loctouch->new;
+
+    my @spots =  @{ $loc->spots_search('query' => 'cafe') };
+
+# DESCRIPTION
+WebService::Loctouch is a Perl interface to the Loctouch web service API.
+For more information on Loctouch, visit the Loctouch website. http://tou.ch/
+
